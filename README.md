@@ -1,5 +1,3 @@
-# 100-Days-of-Devops-Challenge
-
 # 🚀 100 Days of DevOps - KodeKloud Engineer Challenges
 
 Welcome to my DevOps journey!  
