@@ -14,7 +14,7 @@ Each day covers a new concept or hands-on challenge, including Linux, Git, Docke
 ------
 
 ## 📝 Daily Log
-- **Day 01:** Day01-[Create-User/Day 1]- (Linux User Setup with Non-Interactive Shell .docx)  
+- **Day 01:** [Create-User/Day 1](Linux User Setup with Non-Interactive Shell .docx)  
 - **Day 02:** Coming soon  
 - **Day 03:** Coming soon  
 
